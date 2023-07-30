@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=paullouppe" alt="paullouppe" /></a> </p>
 
-- 🔭 I’m currently working on **aeb-illustration**
+- 🔭 I’m currently working on a **portfolio**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **C# .NET**
 
 - 📫 How to reach me **paullouppe@gmail.com**
 
