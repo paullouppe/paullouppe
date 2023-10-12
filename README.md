@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 
-- 🔭 I’m currently working on a scalable **discord bot** and a **single page react-app** for **comunity voting**
+- 🔭 I’m currently working on a scalable **discord bot** and a **single page react-app** for **community voting**
 
 - 🌱 I’m currently learning **C# .NET**
 
