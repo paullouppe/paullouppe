@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Paul</h1>
 
-- 🔭 I’m currently working on a **community voting / group making recommadation algorithm** using ORTOOLS [CP SAT SOLVER](https://developers.google.com/optimization/cp/cp_solver?hl=fr), and a **platform helping accessibility** for physical handicap.
+- 🔭 I’m currently working on a **community voting / group making recommandation algorithm** using ORTOOLS [CP SAT SOLVER](https://developers.google.com/optimization/cp/cp_solver?hl=fr), and a **platform helping accessibility** for physical handicap.
 
 - 🌱 Currently learning **C# .NET** at [Euro Information Développement Nancy](https://www.e-i.com/eco/fr/index.html) as a co-op student.
 
